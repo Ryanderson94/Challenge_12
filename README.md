@@ -1,6 +1,6 @@
 # Credit Risk Classification
 
-TO BE COMPLETED 
+This analysis was completed using various Supervised Machine Learning tools and techniques to anaylize the creditworthiness of borrowers.
 
 # Technologies
 
