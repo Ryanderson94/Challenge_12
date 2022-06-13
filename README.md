@@ -27,14 +27,11 @@ run pip install -r requirements.txt
 
 1. Navigate to the directory in either the Terminal or GitBash. 
 
-2. From the top folder (Challenge_7), launch jupyter lab by typing 'jupyter lab' into Terminal or Gitbash and pressing 'Enter'
+2. From the top folder (Challenge_12), launch jupyter lab by typing 'jupyter lab' into Terminal or Gitbash and pressing 'Enter'
 <img width="570" alt="Screen Shot 2022-05-08 at 1 56 51 PM" src="https://user-images.githubusercontent.com/98444459/167309092-db3b1a32-49bf-4a3c-a7d7-cc9674d32d38.png">
 
-3. Open the 'etf_analyzer.ipynb' notebook and follow the instructions therein.  
+3. Open the 'credit_risk_resampling.ipynb' notebook and follow the instructions therein.  
 ![Screen Shot 2022-05-08 at 1 56 29 PM](https://user-images.githubusercontent.com/98444459/167309099-597afadb-c12b-4a27-91ca-039ee2e7b52a.png)
-
-4. This analysis has been turned into a WebApplication as well. Please find a recording of the application in the repo.
-<img width="1579" alt="Screen Shot 2022-05-08 at 9 14 49 PM" src="https://user-images.githubusercontent.com/98444459/167324867-dcf7f01e-a9ac-4988-8e17-8b94969fa6f7.png">
 
 ---
 # Credit Report Analysis
