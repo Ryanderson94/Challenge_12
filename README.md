@@ -31,14 +31,14 @@ run pip install -r requirements.txt
 <img width="570" alt="Screen Shot 2022-05-08 at 1 56 51 PM" src="https://user-images.githubusercontent.com/98444459/167309092-db3b1a32-49bf-4a3c-a7d7-cc9674d32d38.png">
 
 3. Open the 'credit_risk_resampling.ipynb' notebook and follow the instructions therein.  
-![Screen Shot 2022-05-08 at 1 56 29 PM](https://user-images.githubusercontent.com/98444459/167309099-597afadb-c12b-4a27-91ca-039ee2e7b52a.png)
+<img width="367" alt="Screen Shot 2022-06-12 at 8 22 24 PM" src="https://user-images.githubusercontent.com/98444459/173268248-d01530c1-b951-449b-a263-2a890b582fc9.png">
 
 ---
 # Credit Report Analysis
 
 ## Overview of the Analysis 
 
-* The purpose of this analysis is to determine if a model created to validate the likelihood of default of borrowers using two different datasets. The first is an imbalanced dataset, and the second is resampled dataset. The datasets analyzed contained information on loan size, interest rate, debt-to-income ratio, income, derogatory marks, number of accounts and total debt with a final outcome variable of their loan status (approved or rejected). 
+The purpose of this analysis is to determine if a model created to validate the likelihood of default of borrowers using two different datasets. The first is an imbalanced dataset, and the second is resampled dataset. The datasets analyzed contained information on loan size, interest rate, debt-to-income ratio, income, derogatory marks, number of accounts and total debt with a final outcome variable of their loan status (approved or rejected). 
 
 In the first dataset, we have 75036 rejected loans and 2500 approved loans. This, of course, is what we consider an imbalanced dataset.
 In the second dataset, we have 56271 rejected and the same number of approved loans. This is our resampled dataset. 
